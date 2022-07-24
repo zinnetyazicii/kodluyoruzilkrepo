@@ -1,0 +1,50 @@
+h1,h2 {
+    color: #FFF;
+  }
+  body {
+    text-align: center;
+    background-color: #7858A6;
+    font-family: "Quicksand", sans-serif;
+  }
+  h5 {
+    font-size: larger;
+    color: #570014;
+    font-style: italic;
+  }
+  ul {
+    display: inline;
+    font-size: larger;
+    list-style-position: inside;
+  }
+  
+  .marka {
+    color: #79447e;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  ol {
+    display: inline;
+    font-size: larger;
+    list-style-position: inside;
+  }
+  a{
+    background-color: #5B4B8A;
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 16px;
+
+    margin: 4px 2px;
+
+    cursor: pointer;
+  }
